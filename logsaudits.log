@@ -1,0 +1,86 @@
+	[23/Oct/12 15:22:31][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:22:40][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Test Project 'test' was created
+	[23/Oct/12 15:25:58][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[23/Oct/12 15:30:49][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:31:58][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[23/Oct/12 15:38:29][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:39:53][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[23/Oct/12 17:27:32][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/13 15:19:34][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/13 15:19:40][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/16 12:45:22][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/16 12:45:27][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/16 12:57:39][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/16 12:57:45][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/16 15:02:48][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/16 15:03:02][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/16 15:03:44][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/16 16:36:01][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/17 09:32:12][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/17 09:32:17][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/17 10:20:25][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/17 10:20:37][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/17 10:22:14][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Test Case 'Amara-Eportal-1 : Login - Amara NZero application login - Client user' version 1 was added to Test Plan Example Test Plan
+	[23/Oct/17 10:22:14][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Test Case 'Amara-Eportal-2 : Login - Amara NZero application login - Admin user' version 1 was added to Test Plan Example Test Plan
+	[23/Oct/17 10:30:01][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/17 10:35:53][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/17 11:10:31][AUDIT][ccfo1iantvvc4in9e6loi8kht6][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/18 07:21:55][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/18 07:22:21][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Test Project 'Amara Eportal' was saved
+	[23/Oct/18 07:23:11][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Test Project 'Amara Eportal' - Requirement specification 'Cashback Requirement' was created
+	[23/Oct/18 07:23:28][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Test Project 'Amara Eportal' was saved
+	[23/Oct/18 11:45:47][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/18 13:45:13][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/19 08:53:09][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Logout of 'admin'
+	[23/Oct/19 08:53:13][AUDIT][n84pa21km1ndumgtjodvnud0l7][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/19 11:39:30][AUDIT][72gbs63vt7t6i8soug90p0ose0][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/23 10:00:59][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 2]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/23 10:10:15][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 2]
+		All user roles were unassigned from the Test Plan 'Example Test Plan'
+	[23/Oct/23 10:10:15][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 2]
+		All user roles were unassigned from the Test Project with id 'Amara Eportal'
+	[23/Oct/23 10:10:15][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI]
+		Test Project 'Amara Eportal' was deleted
+	[23/Oct/23 10:10:40][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 177]
+		Test Project 'Amara Eportal' was created
+	[23/Oct/24 09:45:26][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 177]
+		Logout of 'admin'
+	[23/Oct/24 09:45:46][AUDIT][rngql9n1jlqbeuosr1v6onsi13][GUI - Test Project ID : 177]
+		Login for 'admin' from '::1' succeeded
