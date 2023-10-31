@@ -1,0 +1,14 @@
+	[23/Oct/12 15:22:31][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:22:40][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Test Project 'test' was created
+	[23/Oct/12 15:25:58][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[23/Oct/12 15:30:49][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:31:58][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
+	[23/Oct/12 15:38:29][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Login for 'admin' from '::1' succeeded
+	[23/Oct/12 15:39:53][AUDIT][jkfb2i2b7r1br3n5h9o2c9nbea][GUI - Test Project ID : 1]
+		Logout of 'admin'
